@@ -9,12 +9,12 @@ Create a new anaconda environment following instructions on the docs page: https
 
 clone the repo:
 
-  git clone https://github.com/BertoltLang/BertPlatoSim
+    git clone https://github.com/BertoltLang/BertPlatoSim
 
 install dependencies:
 
-  cd BertPlatoSim
-  ./install.sh
+    cd BertPlatoSim
+    ./install.sh
 
 
 (on windows, you will need to go to the Anaconda prompt to run these commands)
